@@ -9,6 +9,10 @@
 The simulation prompts users with various situations and options, guiding them through the decision-making process in a step-by-step manner. It uses realistic terminology but avoids overly technical language, making it accessible to those without prior aviation knowledge. The goal is to create an engaging and educational experience that reflects the challenges faced by airport managers, helping users improve their strategic thinking and problem-solving skills in the context of airport operations.
 
 #
+
+![Travel](https://github.com/user-attachments/assets/53793f64-022a-484a-8cb4-5e0a57855b34)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
