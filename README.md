@@ -9,6 +9,23 @@
 The simulation prompts users with various situations and options, guiding them through the decision-making process in a step-by-step manner. It uses realistic terminology but avoids overly technical language, making it accessible to those without prior aviation knowledge. The goal is to create an engaging and educational experience that reflects the challenges faced by airport managers, helping users improve their strategic thinking and problem-solving skills in the context of airport operations.
 
 #
+### Example Usage
+
+```
+
+Great! Let’s begin managing an international airport. First, please choose an airport from the following list of well-known international airports:
+
+JFK - John F. Kennedy International Airport, New York, USA
+LHR - London Heathrow Airport, London, UK
+DXB - Dubai International Airport, Dubai, UAE
+HND - Haneda Airport, Tokyo, Japan
+SIN - Changi Airport, Singapore
+
+Please select one of these airports or specify another airport you would like to manage using its IATA code.
+
+```
+
+#
 
 ![Travel](https://github.com/user-attachments/assets/53793f64-022a-484a-8cb4-5e0a57855b34)
 
