@@ -26,6 +26,32 @@ Please select one of these airports or specify another airport you would like to
 ```
 
 #
+### Popular International Airports
+
+| Airport Name                  | Location          | Airport Code |
+|-------------------------------|-------------------|--------------|
+| Hartsfield-Jackson Atlanta     | Atlanta, USA      | ATL          |
+| Beijing Capital International  | Beijing, China    | PEK          |
+| Los Angeles International      | Los Angeles, USA  | LAX          |
+| Dubai International            | Dubai, UAE        | DXB          |
+| Tokyo Haneda                   | Tokyo, Japan      | HND          |
+| O'Hare International           | Chicago, USA      | ORD          |
+| London Heathrow                | London, UK        | LHR          |
+| Hong Kong International        | Hong Kong, China  | HKG          |
+| Shanghai Pudong International  | Shanghai, China   | PVG          |
+| Charles de Gaulle              | Paris, France     | CDG          |
+| Amsterdam Schiphol             | Amsterdam, Netherlands | AMS      |
+| Frankfurt International        | Frankfurt, Germany | FRA         |
+| Incheon International          | Seoul, South Korea | ICN         |
+| Singapore Changi               | Singapore         | SIN          |
+| Madrid Barajas                 | Madrid, Spain     | MAD          |
+| Sydney Kingsford Smith         | Sydney, Australia | SYD          |
+| San Francisco International    | San Francisco, USA | SFO         |
+| Toronto Pearson International  | Toronto, Canada   | YYZ          |
+| Suvarnabhumi                   | Bangkok, Thailand | BKK          |
+| Munich International           | Munich, Germany   | MUC          |
+
+#
 
 ![Travel](https://github.com/user-attachments/assets/53793f64-022a-484a-8cb4-5e0a57855b34)
 
